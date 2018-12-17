@@ -40,7 +40,7 @@ python setup.py build_ext --inplace
 ```  
 
 ## Train/Test
-1.下载预训练的ResNet101的checkpoint为[resnet_v1_101_2016_08_28.tar.gz](http://download.tensorflow.org/models/resnet_v1_101_2016_08_28.tar.gz)，然后将其解压到文件夹/ data / pretrained_weights下  
+1.下载预训练的ResNet101的checkpoint为[resnet_v1_101_2016_08_28.tar.gz](http://download.tensorflow.org/models/resnet_v1_101_2016_08_28.tar.gz)，然后将其解压到文件夹/data/pretrained_weights下  
 2.训练的时候：
 
 ```
