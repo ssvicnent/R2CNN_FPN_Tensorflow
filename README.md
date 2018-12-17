@@ -54,7 +54,7 @@ python inference.py --data_dir=inference_image --gpu='0'
 ```  
 
 ## Summary
-训练的时候可通过Tensorboard来Loss function的动态，以及训练过程的实时效果图
+训练的时候可通过Tensorboard来看Loss function训练过程中的动态，以及训练过程的实时效果图
 ```
 cd ./output/summary/
 tensorboard --logdir=./
